@@ -6,8 +6,8 @@ This project aims to develop an MVP for an electric vehicle (EV) charging platfo
 
 | Nmec   | Name              | Email                   | GitHub                                                      | Roles            |
 |--------|-------------------|--------------------------|-------------------------------------------------------------|------------------|
-|113780       | João Varela        | <joaovarela@ua.pt>       | [joaovarela14](https://github.com/joaovarela14)             | Team Coordinator |
-|114246        | Carolina Prata     | <carolinaprata@ua.pt>              | [carolmprata](https://github.com/carolmprata)         | Product Owner    |
+|113780       | João Varela        | <joaovarela@ua.pt>       | [joaovarela14](https://github.com/joaovarela14)             | DevOps Master|
+|114246        | Carolina Prata     | <carolinaprata@ua.pt>              | [carolmprata](https://github.com/carolmprata)         | Product Owner & Team Coordinator   |
 |114192        | Diogo Domingues    | <diogodomingues04@ua.pt>              | [DJI28](https://github.com/DJI28)         | QA Engineer      |
 
 
